@@ -71,26 +71,12 @@
   <text x="28" y="687.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">o@@@@@@@@@@@@@@@@@@o@@@@oxxxxxxjjjjjxjxxxxxoooo@@ooooooooo@|xxooxxooxxxoooooxx|@@oxxoooooooooooxxxxxxx@@|xxxooooooxxxxxxxxxjjjjjjj:</text>
   <text x="28" y="697" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@o@@o@@@@@@@@@@@@@o@@@@oxxxxxxxjjjjjxxgooo@@@ooa$oooxoooo@|xoooooooooooooooox@@ooxooooooooooooooxxxxx@@pxxxooooooxxxxxxxxxjjjjjj:</text>
   <g font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve">
-    <rect x="714" y="170" width="558" height="440" rx="4" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.7"/>
-    <rect x="738" y="230" width="510" height="344" rx="3" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.7"/>
-    <rect x="762" y="320" width="462" height="218" rx="3" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.7"/>
-    <rect x="786" y="410" width="414" height="92" rx="3" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.7"/>
+    <rect x="714" y="190" width="558" height="380" rx="4" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.7"/>
+    <rect x="738" y="300" width="510" height="240" rx="3" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.7"/>
+    <rect x="762" y="400" width="462" height="110" rx="3" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.7"/>
 
-    <rect x="732" y="161" width="273" height="20" fill="#0d1117"/>
-    <text x="740" y="176" fill="#58a6ff" font-size="14">[ AhmedAlSunbati712 :: thesis ]</text>
-
-    <rect x="754" y="221" width="219" height="19" fill="#0d1117"/>
-    <text x="762" y="235" fill="#ffa657" font-size="13">[ layer.03 / abstraction ]</text>
-    <text x="762" y="286" fill="#c9d1d9" font-size="14">L A Y E R S  O F  A B S T R A C T I O N</text>
-
-    <rect x="778" y="311" width="192" height="19" fill="#0d1117"/>
-    <text x="786" y="325" fill="#ffa657" font-size="13">[ layer.02 / boundary ]</text>
-    <text x="786" y="376" fill="#79c0ff" font-size="15">A R E  B O U N D A R I E S</text>
-
-    <rect x="802" y="401" width="209" height="19" fill="#0d1117"/>
-    <text x="810" y="415" fill="#ffa657" font-size="13">[ layer.01 / competence ]</text>
-    <text x="810" y="467" fill="#c9d1d9" font-size="15">O F  C O M P E T E N C E .</text>
-
-    <text x="738" y="642" fill="#484f58" font-size="13"><tspan fill="#ffa657">&gt;</tspan> thesis.render()<tspan fill="#58a6ff">_</tspan></text>
+    <text x="993" y="250" text-anchor="middle" fill="#c9d1d9" font-size="14">L A Y E R S  O F  A B S T R A C T I O N</text>
+    <text x="993" y="360" text-anchor="middle" fill="#79c0ff" font-size="15">A R E  B O U N D A R I E S</text>
+    <text x="993" y="461" text-anchor="middle" fill="#c9d1d9" font-size="15">O F  C O M P E T E N C E .</text>
   </g>
 </svg>
