@@ -1,7 +1,5 @@
 <img src="dark_mode.svg" alt="AhmedAlSunbati712's GitHub profile card" width="100%" />
 
-Layers of abstraction are boundaries of competence.
-
 ## Currently working on
 
 - **[StoneleafDB](https://github.com/AhmedAlSunbati712/StoneleafDB):** A crash-safe, transactional, distributed, ordered key-value store.
